@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الصفحة الرئيسية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            margin: 2em;
+            padding: 1em;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بكم في موقعي</h1>
+    </header>
+
+    <section>
+        <p>هذه هي الصفحة الرئيسية للموقع. يمكنك إضافة المزيد من المحتوى هنا!</p>
+    </section>
+</body>
+</html>
