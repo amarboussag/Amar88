@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحة الهبوط</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">الرئيسية</a></li>
+                <li><a href="#about">عنّا</a></li>
+                <li><a href="#contact">تواصل معنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="landing-section">
+        <h1>مرحبًا بك في موقعنا</h1>
+        <p>نقدم لك أفضل الحلول لتطوير أعمالك عبر الإنترنت.</p>
+        <a href="#contact" class="btn">تواصل معنا الآن</a>
+    </section>
+
+    <section id="about">
+        <h2>عنّا</h2>
+        <p>نحن فريق متخصص في تطوير الويب ونقدم مجموعة متنوعة من الخدمات التي تساعد على تحسين وجودك الرقمي.</p>
+    </section>
+
+    <footer>
+        <p>جميع الحقوق محفوظة &copy; 2025</p>
+    </footer>
+</body>
+</html>
